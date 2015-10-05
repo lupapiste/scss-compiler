@@ -1,8 +1,10 @@
 # scss-compiler
 
-A Clojure library to compile SCSS files to CSS.
+A Clojure library to compile SCSS files to CSS. Uses jRuby and supports Compass.
 
 This project is at proof of concept stage at this point. For instance, performance is quite poor.
+
+[![Clojars Project](http://clojars.org/lupapiste/scss-compiler/latest-version.svg)](http://clojars.org/lupapiste/scss-compiler)
 
 ## sass and compass gems with their dependencies
 
